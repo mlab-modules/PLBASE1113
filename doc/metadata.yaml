@@ -1,7 +1,5 @@
 description: 3D printable MLAB plastic base board
 github_branch: PLBASE1113A
-github_branches:
-- MODUL01A
 github_description: 3D printable MLAB plastic base board
 github_repo: PLBASE1113
 github_url: https://github.com/mlab-modules/PLBASE1113
