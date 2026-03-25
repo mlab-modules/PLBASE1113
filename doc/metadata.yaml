@@ -6,9 +6,16 @@ github_description: 3D printable MLAB plastic base board
 github_repo: PLBASE1113
 github_url: https://github.com/mlab-modules/PLBASE1113
 homepage: false
-images: []
+images:
+- doc/img/PLBASE1115_Bottom_Small.jpg
+- doc/img/PLBASE1115_Top_Small.jpg
+- doc/src/img/PLBASE1115_module_Top_Big.JPG
+- doc/src/img/PLBASE1115_mount_leg_Top_Big.JPG
+- doc/src/img/PLBASE1115_Top_Big.png
+- doc/src/img/PLBASE1115_Bottom_Big.png
+- doc/src/img/PLBASE1115_QRcode.png
 issues: 2
 mark: 50
 tags: []
 title: PLBASE1113
-updated: '2026-03-25T19:28:46.209134+00:00'
+updated: '2026-03-25T19:32:57.405572+00:00'
