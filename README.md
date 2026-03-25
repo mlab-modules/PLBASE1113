@@ -1,36 +1,27 @@
-# MODUL01 - Template to create a new MLAB module
+<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
+<!--- 00a56be08b96043df9e37d6aff7b6990 --->
+<!--- Created:20170112-18:22: ---> 
+<!--- Author:Mlab: ---> 
+<!--- AuthorEmail:mlab@mlab.cz: ---> 
+<!--- Tags:imported: ---> 
+<!--- Ust:[End]: ---> 
+<!--- Name:PLBASE1115: --->
+#PLBASE1115 
+<!--- LongName --->
+3D printable plastic base board
+<!--- ELongName ---> 
 
-MLAB's module template repository. Please [use the "Use this template" button](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template) to create a new MLAB module from this repository.
+<!--- Lead --->
+This base board has size 11x15 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions. The board can be prited at almost any 3D printer.
+<!--- ELead ---> 
 
-The new module repository name must be identical to the proposed new module name. Please look in [MLAB design rules](https://wiki.mlab.cz/doku.php?id=en:rules#identification_of_modules) for an acceptable naming convention.
-After creating the new repository, [rename](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/renaming-a-branch) the default git branch to be named corresponding to the revision of the module. It is generally adding the "A" suffix to the module name. Therefore, a new repository named MODULENAME01 should have the branch name MODULENAME01A. 
-
-Then [clone the new MLAB's module repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your workstation. After that perform the following steps in the cloned repository. 
-
-## 1. Initialize the assets submodule, and update it to the latest version
-```bash
-git submodule update --init --remote
-```
-
-## 2. Start the design work 
-
-At that point, you should start to design the new MLAB module project by using the [design tools](https://wiki.mlab.cz/doku.php?id=en:tools).
-
-## 3. Copy the fresh automation workflows
-    
-The following command copies up-to-date KiCAD automation workflow to the new MLAB module repository.
-```bash
-cd doc/assets/workflows/
-./copy_workflow_to_repo.sh
-```
+![LeadImg](DOC/SRC/img/PLBASE1115_mount_leg_Top_Big.JPG) 
 
 
-## 4. Replace this readme
-
-This readme should be replaced by a description of your new module project! :)
-Please look to the README.md in the root of other modules to get inspiration. 
-
-Thanks for contributing! 
-
-
-    
+​
+​
+<!--- Description --->
+<!--- EDescription --->
+<!--- Content --->
+<!--- EContent --->
+            
